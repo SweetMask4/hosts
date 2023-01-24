@@ -2,12 +2,12 @@
 # Last updated: 2023-01-21
 # Fiber
 
-atlanta.speed.googlefiber.net
-austin.speed.googlefiber.net
-charlotte.speed.googlefiber.net
-googlefiber.net
-kansas.speed.googlefiber.net
-nashville.speed.googlefiber.net
-raleigh.speed.googlefiber.net
-speedtest.googlefiber.net
-stanford.speed.googlefiber.net
+0.0.0.0 atlanta.speed.googlefiber.net
+0.0.0.0 austin.speed.googlefiber.net
+0.0.0.0 charlotte.speed.googlefiber.net
+0.0.0.0 googlefiber.net
+0.0.0.0 kansas.speed.googlefiber.net
+0.0.0.0 nashville.speed.googlefiber.net
+0.0.0.0 raleigh.speed.googlefiber.net
+0.0.0.0 speedtest.googlefiber.net
+0.0.0.0 stanford.speed.googlefiber.net
