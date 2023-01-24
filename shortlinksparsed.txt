@@ -2,17 +2,17 @@
 # Last updated: 2023-01-21
 # Short Links
 
-app.goo.gl
-cctldtest.g.co
-cctldtest.youtu.be
-g.co
-goo.gl
-goog.le
-images.app.goo.gl
-m.youtu.be
-maps.app.goo.gl
-preview.app.goo.gl
-surf.youtu.be
-www.yt.be
-youtu.be
-yt.be
+0.0.0.0 app.goo.gl
+0.0.0.0 cctldtest.g.co
+0.0.0.0 cctldtest.youtu.be
+0.0.0.0 g.co
+0.0.0.0 goo.gl
+0.0.0.0 goog.le
+0.0.0.0 images.app.goo.gl
+0.0.0.0 m.youtu.be
+0.0.0.0 maps.app.goo.gl
+0.0.0.0 preview.app.goo.gl
+0.0.0.0 surf.youtu.be
+0.0.0.0 www.yt.be
+0.0.0.0 youtu.be
+0.0.0.0 yt.be
